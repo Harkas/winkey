@@ -9,6 +9,7 @@
 #include *i %A_ScriptDir%\plugins\TCDialog\TCDialog.ahk
 #include *i %A_ScriptDir%\plugins\TotalCommander\TotalCommander.ahk
 #include *i %A_ScriptDir%\plugins\WinMerge\WinMerge.ahk
+#include *i %A_ScriptDir%\plugins\WinTab\WinTab.ahk
 #include *i %A_ScriptDir%\plugins\WizNote\WizNote.ahk
 /*
 [ExtensionsTime]
@@ -23,5 +24,6 @@ TCCompare=20170310212324
 TCDialog=20170310212324
 TotalCommander=20170310212324
 WinMerge=20170310212324
+WinTab=20170104074323
 WizNote=20170310212324
 */
