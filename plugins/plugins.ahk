@@ -1,4 +1,7 @@
-﻿#include *i %A_ScriptDir%\plugins\BeyondCompare4\BeyondCompare4.ahk
+﻿; 本文件为插件变更目录和日志
+
+; 以下为当前启动的插件
+#include *i %A_ScriptDir%\plugins\BeyondCompare4\BeyondCompare4.ahk
 #include *i %A_ScriptDir%\plugins\Explorer\Explorer.ahk
 #include *i %A_ScriptDir%\plugins\Foobar2000\Foobar2000.ahk
 #include *i %A_ScriptDir%\plugins\General\General.ahk
@@ -11,6 +14,8 @@
 #include *i %A_ScriptDir%\plugins\WinMerge\WinMerge.ahk
 #include *i %A_ScriptDir%\plugins\WinTab\WinTab.ahk
 #include *i %A_ScriptDir%\plugins\WizNote\WizNote.ahk
+
+; 以下插件更改时间
 /*
 [ExtensionsTime]
 BeyondCompare4=20170310212324
