@@ -1,4 +1,4 @@
-####################
+﻿####################
 # Windows
 ####################
 # Windows image file caches
@@ -27,6 +27,6 @@ Session.vim
 .netrwhist
 *~
 *.exe
-vimd.ini
+# vimd.ini
 Private
-doc/wiki
+# doc/wiki
